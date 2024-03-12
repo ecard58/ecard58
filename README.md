@@ -1,12 +1,9 @@
-<h2 align="left">Hi! My name is Emanuel Cardoso and I'm a dev, from Brazil</h2>
+<h2 align="left"> Emanuel Cardoso</h2>
 
-###
 
-<img align="right" height="50" width="50" src="https://d6f6d0kpz0gyr.cloudfront.net/uploads/images-archive/Blog/Gifs/computers.gif"  />
 
-###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
