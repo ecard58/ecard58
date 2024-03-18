@@ -1,7 +1,11 @@
 <h2 align="left"> Emanuel Cardoso</h2>
 
+<div align="center">
+  
+![ecard58's Stats](https://github-readme-stats.vercel.app/api?username=ecard58&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-
+![ecard58's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ecard58&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)  
+</div>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
